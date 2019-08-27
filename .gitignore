@@ -2,4 +2,8 @@ produtos/target/
 produtos/.settings
 produtos/.project
 produtos/.classpath
+lojaweb/target/
+lojaweb/.settings
+lojaweb/.project
+lojaweb/.classpath
 .vscode
