@@ -9,4 +9,15 @@ public class Produto {
         this.nome = nome;
         this.preco = preco;
     }
+
+    /**
+     * @return the nome
+     */
+    public String getNome() {
+        return nome;
+    }
+
+    public double getPrecoComImposto() {
+        return preco * 1.1;
+    }
 }
